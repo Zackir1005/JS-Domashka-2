@@ -1,0 +1,8 @@
+*{
+    font-family: Comic Sans MS;
+}
+.box img, .newDiv img {
+    margin: 15px;
+    align-items: center;
+
+}
